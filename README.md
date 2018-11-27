@@ -1,5 +1,4 @@
 # TLV Cloud Workshop
-** the tlv 
 
 ## We had 6 tracks
 
