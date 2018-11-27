@@ -11,3 +11,5 @@ text goes here
 ### Development track
 [sample link](https://github.com/yodobrin/WorkShopTLV/blob/master/workshop/App%20Center%20-%20Cloud%20Workshop.pdf "App Center Workshop")
 
+[second pdf](https://github.com/yodobrin/WorkShopTLV/blob/master/workshop/Azure_Stack_for_Your_Hybrid_Cloud_Strategy.pdf)
+
