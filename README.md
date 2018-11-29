@@ -1,6 +1,5 @@
 # TLV Cloud Workshop
 
-## We had 6 tracks
 
 [Here is our summary video](https://vimeo.com/302680034)
 
